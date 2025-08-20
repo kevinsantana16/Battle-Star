@@ -1,6 +1,6 @@
-Battle-Star
+Dodger Game
 
-Battle-Star é um jogo de batalha espacial 2D desenvolvido com a biblioteca Pygame. O projeto demonstra habilidades em programação orientada a objetos, design de jogos e integração com banco de dados SQLite para armazenamento de pontuações.
+Dodger Game é um jogo de batalha espacial 2D desenvolvido com a biblioteca Pygame. O projeto demonstra habilidades em programação orientada a objetos, design de jogos e integração com banco de dados SQLite para armazenamento de pontuações.
 
 🛠️ Tecnologias Utilizadas
 
