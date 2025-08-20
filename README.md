@@ -40,6 +40,7 @@ Armazenamento de Pontuação: Registro das melhores pontuações no banco de dad
 └── README.md
 
 <img width="1201" height="1020" alt="image" src="https://github.com/user-attachments/assets/77c10dd0-71c2-4f74-9f25-3f7c7dff2dcc" />
+<img width="1196" height="1012" alt="image" src="https://github.com/user-attachments/assets/479c8e28-8128-453a-b039-88ec09674478" />
 
 
 
