@@ -12,7 +12,7 @@ Banco de Dados: SQLite
 
 Estrutura de Arquivos:
 
-battle_star.py: Lógica principal do jogo
+main.py: Lógica principal do jogo
 
 db_manager.py: Gerenciamento de banco de dados
 
@@ -34,7 +34,7 @@ Armazenamento de Pontuação: Registro das melhores pontuações no banco de dad
 ├── assets/
 │   ├── images/
 │   └── sounds/
-├── battle_star.py
+├── main.py
 ├── db_manager.py
 ├── score.db
 └── README.md
