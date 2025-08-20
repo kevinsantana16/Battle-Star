@@ -39,6 +39,9 @@ Armazenamento de Pontuação: Registro das melhores pontuações no banco de dad
 ├── score.db
 └── README.md
 
+<img width="1201" height="1020" alt="image" src="https://github.com/user-attachments/assets/77c10dd0-71c2-4f74-9f25-3f7c7dff2dcc" />
+
+
 
 📄 Licença
 
